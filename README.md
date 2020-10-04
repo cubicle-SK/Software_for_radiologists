@@ -2,4 +2,4 @@
 It is an ongoing project, soon I will release it completely.
 
 ### Sample view
-![res](S_to_T.mp4)
+![speak to text with editing](S_to_T.mp4)
