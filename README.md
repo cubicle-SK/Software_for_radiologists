@@ -12,20 +12,20 @@ They can also run the automated version where segmentation is done using a regio
 You can share it to anyone irrespective of whether that person have Python on their system or not.
 
 # First look
-![r](First Page.png)
+![r] (First Page.png)
 
 ## Choose slide number
-![r](CT slide.png)
+![r] (CT slide.png)
 
 ## Manual segmentation
-![r](manual segmentation.png)
+![r] (manual segmentation.png)
 
 ## Automated segmentation process
-![r](Automated process flow chart.png)
+![r] (Automated process flow chart.png)
 
 ## Automated segmentation with area
-![r](Automated segmentation.png)
+![r] (Automated segmentation.png)
 
 ## Notes
-![r](speech to text notes.png)
-![r](re-editing fo notes and save as jpg.png)
+![r] (speech to text notes.png)
+![r] (re-editing fo notes and save as jpg.png)
