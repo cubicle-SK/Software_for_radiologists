@@ -12,7 +12,7 @@ They can also run the automated version where segmentation is done using a regio
 You can share it to anyone irrespective of whether that person have Python on their system or not.
 
 # First look
-![](First Page.png)
+![first look](First Page.png)
 
 ## Choose slide number
 ![r] (CT slide.png)
