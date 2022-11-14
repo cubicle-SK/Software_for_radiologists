@@ -15,17 +15,17 @@ You can share it to anyone irrespective of whether that person have Python on th
 ![first look](First_Page.png)
 
 ### Choose slide number
-![r] (CT_slide.png)
+![r](CT_slide.png)
 
 ### Manual segmentation
-![r] (manual_segmentation.png)
+![r](manual_segmentation.png)
 
 ### Automated segmentation process
-![r] (Flow_chart.png)
+![r](Flow_chart.png)
 
 ### Automated segmentation with area
-![r] (Automated_segmentation.png)
+![r](Automated_segmentation.png)
 
 ### Notes
-![r] (sspeech_2text_notes.png)
-![r] (rNote_jpg.png)
+![r](sspeech_2text_notes.png)
+![r](rNote_jpg.png)
