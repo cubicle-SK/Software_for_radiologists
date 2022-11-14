@@ -1,5 +1,5 @@
 # Software_for_radiologists
-An application where radiologist can manully segment and Dicom liver image (CT scan) by selecting the slid they want to work on. after segmentation tehy can add notes by either using speech to text feature or by typing and save the notes along with the Dicom image as a jpg for further sharing and comparison.
+An application where radiologist can manually segment a Dicom liver image (CT image) by selecting the slide they want to work on. After segmentation they can add notes by either using speech to text feature or by typing and save the notes along with the Dicom image as a jpg for further sharing and comparison. 
 They can also run the automated version where segmentation is done using a region growing function of OpenCV library and contouring to find the area of the segmented liver.
 
 ## Implementations
