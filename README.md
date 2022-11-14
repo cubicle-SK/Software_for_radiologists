@@ -28,4 +28,6 @@ You can share it to anyone irrespective of whether that person have Python on th
 
 ### Notes
 ![r](sspeech_2text_notes.png)
+
+###.
 ![r](rNote_jpg.png)
