@@ -27,7 +27,6 @@ You can share it to anyone irrespective of whether that person have Python on th
 ![r](Automated_segmentation.png)
 
 ### Notes
-![r](sspeech_2text_notes.png)
+![r](speech_2text_notes.png)
 
-###.
-![r](rNote_jpg.png)
+### ![r](Note_jpg.png)
